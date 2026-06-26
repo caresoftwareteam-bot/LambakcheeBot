@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <!-- ไฟล์ icon -->
+        <file>icons/loading.png</file>
+        <file>icons/mic.png</file>
+        <file>icons/processing.png</file>
+        <file>icons/thinking.png</file>
+        <file>icons/idle.png</file>
+
+        <!-- ไฟล์ GIF -->
+        <file>eyes_tanuki_idle.gif</file>
+    </qresource>
+</RCC>

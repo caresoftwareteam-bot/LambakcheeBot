@@ -1,0 +1,7 @@
+.venv/bin/pyinstaller --onefile --noconsole \
+    --hidden-import pythainlp.corpus \
+    --hidden-import pythainlp.corpus.common \
+    --hidden-import pythainlp.tokenize \
+    --hidden-import pythainlp.soundex \
+    --hidden-import pythainlp.util \
+    main.py
